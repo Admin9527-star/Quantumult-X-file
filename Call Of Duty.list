@@ -1,10 +1,10 @@
 #call of duty
-host, cloud2.gsdk.proximabeta.com, direct
-host, i24.photobucket.com, direct
-host, ocsp.int-x3.letsencrypt.org, direct
-host, dlgarenanow-a.akamaihd.net, direct
-host, dlmobilegarena-a.akamaihd.net, direct
-host, logs.papertrailapp.com, directly
+host, cloud2.gsdk.proximabeta.com, Call Of Duty
+host, i24.photobucket.com, Call Of Duty
+host, ocsp.int-x3.letsencrypt.org, Call Of Duty
+host, dlgarenanow-a.akamaihd.net, Call Of Duty
+host, dlmobilegarena-a.akamaihd.net, Call Of Duty
+host, logs.papertrailapp.com, Call Of Duty
 host-keyword, garenanow, Call Of Duty
 host-keyword, garena, Call Of Duty
 host-keyword, codm, Call Of Duty
