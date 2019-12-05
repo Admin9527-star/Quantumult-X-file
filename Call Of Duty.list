@@ -2,9 +2,6 @@
 host, cloud2.gsdk.proximabeta.com, Call Of Duty
 host, i24.photobucket.com, Call Of Duty
 host, ocsp.int-x3.letsencrypt.org, Call Of Duty
-host, dlgarenanow-a.akamaihd.net, Call Of Duty
-host, dlmobilegarena-a.akamaihd.net, Call Of Duty
-host, logs.papertrailapp.com, Call Of Duty
 host-keyword, garenanow, Call Of Duty
 host-keyword, garena, Call Of Duty
 host-keyword, codm, Call Of Duty
